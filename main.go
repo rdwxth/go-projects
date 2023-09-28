@@ -6,7 +6,7 @@ import (
     "os"
 )
 
-// Making a quiz game with login
+// Making a quiz game with a login system
 
 type Person struct {
     Name  string `json:"name"`
