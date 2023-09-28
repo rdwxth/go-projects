@@ -1,0 +1,3 @@
+# Ignore Replit configuration files
+replit.nix
+.replit
